@@ -2,9 +2,7 @@
 templateKey: contact-page
 pageSlug: /contact
 pageTitle: Contact
-metaDescription: Matthew Simmons is the former chief operating officer of
-  Lockwood Animal Rescue Center (LARC), which he founded to rescue non-domestic
-  canines and engage in animal advocacy efforts.
+metaDescription: "Predator Healing Project Founder Matthew Simmons: Contact"
 published: true
 schemaType: ContactPage
 header: Contact
