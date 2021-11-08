@@ -2,29 +2,36 @@
 templateKey: about-page
 pageSlug: /about
 pageTitle: About Matthew Simmons
-metaDescription: Matthew Simmons is the former chief operating officer of
-  Lockwood Animal Rescue Center (LARC), which he founded to rescue non-domestic
-  canines and engage in animal advocacy efforts.
+metaDescription: "Predator Healing Project Founder Matthew Simmons: About"
 published: true
 schemaType: AboutPage
 header: About Matthew Simmons
-subheader: Career highlights past and present
+subheader: Predator Healing Project Founder
 featuredImage:
-  src: /img/matthew-simmons-frazier-park.jpeg
-  alt: Headshot of Matthew Simmons Frazier Park
+  src: ""
+  alt: ""
   caption: null
 longBiography_MD: >-
-  <!--StartFragment-->
+  Matthew Simmons founded Predator Healing Project, a non-profit animal rescue
+  and advocacy organization based in Kalispell, Montana. He also founded and
+  served as the chief operating officer of two other major animal advocacy
+  organizations in California from 2009 to 2020. In addition to leading missions
+  to rescue wolf and wolf dog populations in California, Alaska and across the
+  United States, Matthew Simmons orchestrated a significant expansion of the
+  facility and created training manuals on wolf care while teaching new
+  employees how to handle these animals properly. He has also supervised and
+  trained leaders at other rescue sanctuaries, including Apex Protection
+  Project, Reversed Rescue, and Wolf Connection.
 
 
-  Matthew Simmons is the former chief operating officer of Lockwood Animal Rescue Center (LARC), which he founded to rescue non-domestic canines and engage in animal advocacy efforts. While running LARC, he established Wolves and Warriors, an initiative that hires combat veterans to help with anti-poaching missions meant to protect wolf populations. During the program’s first year of operation, Matthew Simmons and his team protected more than 300 wolves. Outside of his work in California, he also founded the Predator Healing Project in Montana, which focuses on the rescue and rehabilitation of apex predators with the help of trained combat veterans. 
+
+  The Predator Healing Project program seeks to involve combat veterans in the rescue and care of animals and has provided a sense of purpose and meaning to the men and women participating. In his role with the initiative, Mr. Simmons organizes anti-poaching missions, recruits new veterans, and leverages his extensive grant-writing experience to help with fundraising. In his previous program’s first year of operation, more than 300 animals were saved.
 
 
-  Matt Simmons serves on the boards of several other animal advocacy groups.. He took part in an important 2018 case that determined the federal protection of wolves living in captivity. His work to preserve wolf populations and other apex predators has been documented in an Animal Planet show called Wolves and Warriors, as well as the award-winning documentary The War in Between. Mr. Simmons has also been honored by the Ventura County Star as Man of the Year. 
+
+  Animal Planet covered Mr. Simmons’ career in a television show, his work was the subject of a documentary that received a number of media awards, and he most recently appeared on “Saving Joe Exotic,” a documentary about the fate of the animals rescued from the notorious facility in Oklahoma. In addition, he has been named the Ventura County Star’s Man of the Year. He remains actively involved in several animal rights organizations, including as a board member of several other animal welfare non-profit organizations.
 
 
-  Matthew Simmons has extensive experience with apex predators as a former animal control officer and part of a support team working with bears, primates, big cats, and wolves. A veteran himself, Mr. Simmons fought in both Operations Desert Storm and Desert Shield as a decorated petty officer with the United States Navy. His work helps provide a new sense of meaning and purpose to veterans who were formerly homeless and unemployed. With extensive training, these individuals gain the skills they need to have a significant impact on animals whose lives are in danger.
 
-
-  <!--EndFragment-->
+  He is himself a veteran who participated in both Operation Desert Storm and Operation Desert Shield. He retired from the US Navy as a decorated petty officer.
 ---
