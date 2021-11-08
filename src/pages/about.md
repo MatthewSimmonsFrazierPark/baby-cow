@@ -1,13 +1,13 @@
 ---
 templateKey: about-page
 pageSlug: /about
-pageTitle: About Matthew Simmons Frazier Park
+pageTitle: About Matthew Simmons
 metaDescription: Matthew Simmons is the former chief operating officer of
   Lockwood Animal Rescue Center (LARC), which he founded to rescue non-domestic
   canines and engage in animal advocacy efforts.
 published: true
 schemaType: AboutPage
-header: About Matthew Simmons Frazier Park
+header: About Matthew Simmons
 subheader: Career highlights past and present
 featuredImage:
   src: /img/matthew-simmons-frazier-park.jpeg
