@@ -1,7 +1,7 @@
 ---
 templateKey: site-data
 published: false
-name: Matthew Simmons Frazier Park
+name: Matthew Simmons, Predator Healing Program
 jobTitle: Founder, Director
 siteName: MatthewSimmonsFrazierPark.com
 siteUrl: https://matthewsimmonsfrazierpark.com
@@ -10,22 +10,22 @@ favicon: /img/favicon.png
 fallbackImage: /img/matthew-simmons-frazier-park.jpeg
 socialLinks:
   twitter:
-    url: ""
-    show: false
+    url: https://twitter.com/PredatorHealing
+    show: true
   facebook:
-    url: ""
-    show: false
+    url: https://www.facebook.com/PredatorHealingProject/
+    show: true
   linkedin:
     url: ""
     show: false
   pinterest:
-    url: ""
-    show: false
+    url: https://www.pinterest.com/matthewsimmonssite
+    show: true
   instagram:
-    url: ""
-    show: false
+    url: https://www.instagram.com/predatorhealingproject/
+    show: true
 themeOptions:
-  colorScheme: londn
-  fontScheme: muli
+  colorScheme: sand
+  fontScheme: lora
   showThemeSwitcher: false
 ---
